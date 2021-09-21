@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmfouad
 - 👀 I’m interested in application development and cloud including Azure, .NET core, Swift, Java and more.
 - 🌱 I’m currently learning new things in the Azure cloud more geared for Data platforms and AI.
-- 💞️ I’m looking to collaborate on reuasble templates to consumed for a headstart in many projects
+- 💞️ I’m looking to collaborate on reuasble templates to be consumed for a headstart in many projects
 - 📫 How to reach me @_mFouad on twitter and mfouad@devsnation.net
 
 <!---
